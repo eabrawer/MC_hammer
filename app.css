@@ -1,0 +1,26 @@
+/* Styles go here */
+
+
+div div {
+  display: inline-block;
+  float: left;
+  width: 180px;
+  height: 180px;
+  border: 1px solid black;
+}
+
+.backward {
+  clear:both;
+  margin: 0 0 0 182px;
+}
+
+#background {
+  margin-left: 50px;
+  height: 550px;
+  width: 550px;
+  background: url("https://policy.pirateparty.ca/wp-content/uploads/2013/04/piratewheel-e1366408950441.png");
+}
+
+#img {
+
+}
